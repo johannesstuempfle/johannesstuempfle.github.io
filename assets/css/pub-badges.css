@@ -1,0 +1,55 @@
+/* shields.io-style badges for publication links (DOI / BibTeX / Code).
+   Used by the local _layouts/bib.liquid override; linked from
+   _pages/publications.md and _pages/about.md (selected papers). */
+
+.pub-badge {
+  display: inline-flex;
+  align-items: stretch;
+  margin: 0 0.15rem 0.2rem 0;
+  border-radius: 0.25rem;
+  overflow: hidden;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  line-height: 1;
+  vertical-align: middle;
+  text-decoration: none !important;
+  border: none !important;
+  cursor: pointer;
+  transition: opacity 0.15s ease-in-out;
+}
+
+.pub-badge:hover {
+  opacity: 0.8;
+  text-decoration: none;
+}
+
+.pub-badge .pub-badge-label,
+.pub-badge .pub-badge-value {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35em;
+  padding: 0.4em 0.6em;
+  color: #ffffff !important;
+}
+
+.pub-badge .pub-badge-label {
+  background-color: #444d56;
+}
+
+.pub-badge .pub-badge-label i {
+  font-size: 1.1em;
+  color: #ffffff;
+}
+
+.pub-badge .pub-badge-value-doi {
+  background-color: #007ec6; /* DOI blue */
+}
+
+.pub-badge .pub-badge-value-bib {
+  background-color: #2ea44f; /* green */
+}
+
+.pub-badge .pub-badge-value-code {
+  background-color: #8250df; /* purple */
+}

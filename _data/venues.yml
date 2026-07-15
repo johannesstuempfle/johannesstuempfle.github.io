@@ -1,9 +1,19 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"ICSR":
+  url: https://conf.researchr.org/home/icsr-2025
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"SPLC":
+  url: https://2025.splc.net/
+  color: "#00369f"
 
-"Vision":
-  color: "#009f36"
+"Variability":
+  url: https://conf.researchr.org/home/variability-2026
+  color: "#00369f"
+
+"ETFA":
+  url: https://conf.researchr.org/home/variability-2026
+  color: "#00369f"
+
+"IEEE EMR":
+  url: https://www.ieee-tems.org/engineering-management-review/
+  color: "#00369f"

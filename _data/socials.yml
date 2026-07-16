@@ -7,6 +7,10 @@ github_username: johannesstuempfle
 #rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: vkxQTW8AAAAJ # your Google Scholar ID
 orcid_id: 0000-0002-0745-158X
+soundcloud:
+  logo: fa-brands fa-soundcloud
+  title: SoundCloud
+  url: https://soundcloud.com/keller4ssel
 email: johannes.stuempfle@gmx.de # your email address
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)

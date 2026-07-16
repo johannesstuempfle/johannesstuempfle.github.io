@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://johannesstuempfle.github.io/al-folio/sitemap.xml
+Sitemap: https://johannesstuempfle.github.io/sitemap.xml

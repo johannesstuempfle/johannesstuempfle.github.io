@@ -1,6 +1,5 @@
 ---
 layout: post
-title: My research stay at Inria in Lille was a great success!
 date: 2026-07-16 10:00:00+0200
 inline: true
 related_posts: false

@@ -17,7 +17,7 @@ social: false # big social icons at the bottom disabled; minimal inline links ar
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 3 # leave blank to include all the news in the `_news` folder
+  limit: # blank = render all items in `_news` (needed for the scroll box to have anything to scroll)
 
 latest_posts:
   enabled: false
@@ -34,14 +34,21 @@ latest_posts:
       width: 22%;
     }
   }
+
+  /* news box: the theme caps it at an inline max-height of 60vw, which is taller
+     than the whole list on desktop, so it never actually scrolls */
+  .news .table-responsive {
+    max-height: 20rem !important;
+    overflow-y: auto;
+  }
 </style>
 
 I am a PhD candidate at the [University of Stuttgart](https://www.ias.uni-stuttgart.de/) with a background in electrical engineering. I am interested in building autonomous systems based on machine learning and deep learning. Currently, my research focuses on generative AI and how it can be leveraged for variability-intensive software systems, exploring the exciting semantic capabilities of these models.
 As part of this research, I recently spent time as a visiting researcher at [Inria](https://www.inria.fr/en) in Lille France.
 
-Away from the keyboard (the computer one), I make music, some of it ends up on [SoundCloud](https://soundcloud.com/keller4ssel).
+Away from the keyboard (the computer one), I make music, some of it might end up on [SoundCloud](https://soundcloud.com/keller4ssel).
 
-<!-- Beyond my research, I work with [PEPLY.ai](https://www.peply.ai/), where I build their app and develop new full-stack features for the platform. Away from the keyboard (the computer one), I make music, some of it ends up on [SoundCloud](https://soundcloud.com/keller4ssel).
+<!-- Beyond my research, I work with [PEPLY.ai](https://www.peply.ai/), where I build their app and develop new full-stack features for the platform.
 
 <!-- Minimal inline social links, driven by _data/socials.yml (add a `when` branch below for any new key you use there). -->
 <div class="contact-links" style="display: flex; flex-wrap: wrap; column-gap: 1.5rem; row-gap: 0.35rem; margin-top: 1rem;">

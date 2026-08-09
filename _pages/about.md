@@ -43,7 +43,7 @@ latest_posts:
   }
 </style>
 
-I am a PhD candidate at the [University of Stuttgart](https://www.ias.uni-stuttgart.de/) with a background in electrical engineering. I am interested in building autonomous systems based on machine learning and deep learning. Currently, my research focuses on generative AI and how it can be leveraged for variability-intensive software systems, exploring the exciting semantic capabilities of these models.
+I am a PhD candidate at the [University of Stuttgart](https://www.ias.uni-stuttgart.de/) with a background in electrical engineering. I am interested in intelligent information processing based on machine learning and deep learning. Currently, my research focuses on generative AI and how it can be leveraged for variability-intensive software systems, exploring the exciting semantic capabilities of these models.
 As part of this research, I recently spent time as a visiting researcher at [Inria](https://www.inria.fr/en) in Lille France.
 
 Away from the keyboard (the computer one), I make music, some of it might end up on [SoundCloud](https://soundcloud.com/keller4ssel).

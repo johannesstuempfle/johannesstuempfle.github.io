@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-21'
 papers:
   vkxQTW8AAAAJ:2osOgNQ5qMEC:
     citations: 11
@@ -18,7 +18,7 @@ papers:
     title: Wang, Weiwei 84 Wei, Haoran 1 Weyrich, Michael 12
     year: Unknown Year
   vkxQTW8AAAAJ:UeHWp8X0CEIC:
-    citations: 10
+    citations: 11
     title: Automating software product line adoption based on feature models using large language models
     year: '2024'
   vkxQTW8AAAAJ:W7OEmFMy1HYC:
@@ -58,7 +58,7 @@ papers:
     title: 'InteLiv: An Architecture for Graph-Based Dynamic Context Modeling for Smart Living'
     year: '2023'
   vkxQTW8AAAAJ:ufrVoPGSRksC:
-    citations: 7
+    citations: 8
     title: 'The software-defined vehicle: A comprehensive study on current trends and challenges'
     year: '2025'
   vkxQTW8AAAAJ:zYLM7Y9cAGgC:

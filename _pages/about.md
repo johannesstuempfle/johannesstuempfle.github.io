@@ -64,8 +64,6 @@ Away from the keyboard (the computer one), I make music, some of it might end up
         <a href="https://orcid.org/{{ value }}" title="ORCID"><i class="ai ai-orcid"></i> orcid</a>
       {%- when 'linkedin_username' -%}
         <a href="https://www.linkedin.com/in/{{ value }}" title="LinkedIn"><i class="fa-brands fa-linkedin"></i> linkedin</a>
-      {%- when 'email' -%}
-        <a href="mailto:{{ value }}" title="Email"><i class="fa-solid fa-envelope"></i> email</a>
       {%- when 'cv_pdf' -%}
         <a href="{{ value | relative_url }}" title="CV"><i class="ai ai-cv"></i> cv</a>
       {%- when 'inspirehep_id' -%}

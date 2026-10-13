@@ -7,4 +7,4 @@ overrides:
     upstream_path: _layouts/bib.liquid
     upstream_sha256: 430311d9b94adf6fb1c2fab7609f6e726efc98e2b50e7b1c4cde0ad654c04506
     local_sha256: 74a7bc60e66bff41296052f90f7d1a225e32c471ef11f21cb37589e76fc82789
-    acknowledged_at: '2026-07-15'
+    acknowledged_at: "2026-07-15"

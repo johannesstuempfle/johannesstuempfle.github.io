@@ -4,7 +4,6 @@ cv:
   image: ""
   # summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
 
-
   sections:
     Education:
       - institution: University of Stuttgart
@@ -42,14 +41,13 @@ cv:
         start_date: 2013
         end_date: 2013
 
-
     Experience:
       - company: Institute for Industrial Automation and Software Engineering
         position: Research Associate
         location: Stuttgart, Germany
         start_date: 2022
         end_date: today
- 
+
       - company: Inria
         position: Visiting Researcher
         location: Lille, France
@@ -73,5 +71,3 @@ cv:
         location: Stuttgart, Germany
         start_date: 2017
         end_date: 2018
-
-  
